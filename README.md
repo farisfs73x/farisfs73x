@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 [![farisfs73x's GitHub stats](https://github-readme-stats.vercel.app/api?username=farisfs73x&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&theme=highcontrast&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
