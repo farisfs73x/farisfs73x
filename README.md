@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&langs_count=6&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![FarisFs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farisfs73x)](https://github.com/anuraghazra/github-readme-stats)
+[![farisfs73x's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farisfs73x)](https://github.com/anuraghazra/github-readme-stats)
