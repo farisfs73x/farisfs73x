@@ -32,7 +32,7 @@
 
 ## 📝 Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/farisfs73x/)
 
 
 <!---
