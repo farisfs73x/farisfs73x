@@ -2,7 +2,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/assets/wave.gif" width="30px"> Hello, folks!
-#
+
 - 👋 Hi, I’m @farisfs73x
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning
@@ -10,7 +10,7 @@
 
 
 ## 🔧 Technologies & Tools
-#
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=58a6ff)
 
@@ -31,7 +31,7 @@
 
 
 ## 📝 Languages
-#
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
