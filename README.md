@@ -1,4 +1,4 @@
-[![farisfs73x header](https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/header.png)](https://farisfs73x.github.io/)
+[![farisfs73x header](https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/headerr.png)](https://farisfs73x.github.io/)
 
 
 - 👋 Hi, I’m @farisfs73x
