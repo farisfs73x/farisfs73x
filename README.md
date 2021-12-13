@@ -1,14 +1,14 @@
 [![farisfs73x header](https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/assets/header.png)](https://farisfs73x.github.io/)
 
-<br />
-## <img src="https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/assets/wave.gif" width="30px"> Hello, folks! 
+
+## <img src="https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/assets/wave.gif" width="30px"> Hello, folks!
 #
 - 👋 Hi, I’m @farisfs73x
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me ... Hmm.. I don't know hehe
 
-<br />
+
 ## 🔧 Technologies & Tools
 #
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=58a6ff)
@@ -29,7 +29,7 @@
 ![](https://img.shields.io/badge/Framework-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/Framework-MaterializeCSS-informational?style=flat&logo=materializecss&logoColor=white&color=58a6ff)
 
-<br />
+
 ## 📝 Languages
 #
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
