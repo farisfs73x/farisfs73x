@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=58a6ff)
 
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=58a6ff)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/Framework-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/Framework-MaterializeCSS-informational?style=flat&logo=materializecss&logoColor=white&color=58a6ff)
 
