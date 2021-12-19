@@ -3,10 +3,10 @@
 
 ## <img src="assets/wave.gif" width="30px"> Hello, folks!
 
-- 👋 Hi, I’m @farisfs73x
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me ... Hmm.. I don't know hehe
+- 👋 Hi, I’m FarisFs
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Laravel Framework
+- 📫 You guys can reach me at <a href="https://www.linkedin.com/in/farisfsx/" target="_blank">here<span style="color: red; font-weight: bold;">!</span></a>
 
 
 ## <img src="assets/tool.gif" width="30px"> Technologies & Tools
@@ -35,6 +35,25 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/farisfs73x/)
 
+<style>
+    a:link {
+    text-decoration: none;
+    color: #58a6ff;
+    }
+
+    a:visited {
+    text-decoration: none;
+    }
+
+    a:hover {
+    text-decoration: none;
+    color: yellow;
+    }
+
+    a:active {
+    text-decoration: underline;
+    }
+</style>
 
 <!---
 farisfs73x/farisfs73x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
