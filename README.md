@@ -6,7 +6,7 @@
 - 👋 Hi, I’m FarisFs
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Laravel Framework
-- 📫 You guys can reach me at <a href="https://www.linkedin.com/in/farisfsx/" target="_blank">here<span style="color: red; font-weight: bold;">!</span></a>
+- 📫 You guys can reach me at <a href="https://www.linkedin.com/in/farisfsx/" target="_blank">here!</a>
 
 
 ## <img src="assets/tool.gif" width="30px"> Technologies & Tools
@@ -34,26 +34,6 @@
 ## <img src="assets/language.gif" width="30px"> Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisfs73x&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/farisfs73x/)
-
-<style>
-    a:link {
-    text-decoration: none !important;
-    color: #58a6ff !important;
-    }
-
-    a:visited {
-    text-decoration: none !important;
-    }
-
-    a:hover {
-    text-decoration: none !important;
-    color: yellow !important;
-    }
-
-    a:active {
-    text-decoration: underline !important;
-    }
-</style>
 
 <!---
 farisfs73x/farisfs73x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
