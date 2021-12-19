@@ -37,21 +37,21 @@
 
 <style>
     a:link {
-    text-decoration: none;
-    color: #58a6ff;
+    text-decoration: none !important;
+    color: #58a6ff !important;
     }
 
     a:visited {
-    text-decoration: none;
+    text-decoration: none !important;
     }
 
     a:hover {
-    text-decoration: none;
-    color: yellow;
+    text-decoration: none !important;
+    color: yellow !important;
     }
 
     a:active {
-    text-decoration: underline;
+    text-decoration: underline !important;
     }
 </style>
 
