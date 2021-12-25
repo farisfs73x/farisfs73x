@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/IDE-NetBeans-informational?style=flat&logo=apachenetbeanside&logoColor=white&color=58a6ff)
 
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=58a6ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=58a6ff)
